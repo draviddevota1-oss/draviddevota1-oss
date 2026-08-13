@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Dravid
+# Hi, I'm Dravid
 
-### 💻 Computer Science Engineer 
+### Computer Science Engineer 
 
 <p align="center">
   <strong>Building intelligent systems, scalable applications, and real-world software solutions.</strong>
@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 * 🎓 Computer Science Engineering graduate
 * 💻 Interested in **Software Development, AI & Machine Learning**
@@ -19,9 +19,9 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Programming
+### Programming
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### 🌐 Backend & Development
+### Backend & Development
 
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 </p>
 
-### 🤖 AI / ML
+### AI / ML
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge"/>
 </p>
 
-### 🧰 Tools
+### Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -59,9 +59,9 @@
 
 ---
 
-## 🌟 Featured Project
+## Featured Project
 
-### 🎙️ Real-Time Silent Speech Recognition System
+### Real-Time Silent Speech Recognition System
 
 AI-powered system that converts **lip movements into text** using deep learning and computer vision.
 
@@ -71,7 +71,7 @@ AI-powered system that converts **lip movements into text** using deep learning 
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 ```text
 Spring Boot
@@ -89,7 +89,7 @@ Cloud & Deployment
 
 ---
 
-## 🎯 Areas of Interest
+## Areas of Interest
 
 ```text
 🤖 Artificial Intelligence
@@ -102,7 +102,7 @@ Cloud & Deployment
 
 ---
 
-## 📈 My Development Journey
+## My Development Journey
 
 I believe in learning by building.
 
@@ -114,7 +114,7 @@ Every project is an opportunity to understand technology more deeply and build s
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p>
   <a href="https://github.com/draviddevota1-oss">
@@ -128,5 +128,5 @@ Every project is an opportunity to understand technology more deeply and build s
 ---
 
 <p align="center">
-  <i>⭐ Keep learning. Keep building. Keep improving.</i>
+  <i>Keep learning. Keep building. Keep improving.</i>
 </p>
