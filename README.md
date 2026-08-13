@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dravid
 
-### 💻 Computer Science Engineer | AI & ML Enthusiast | Software Developer
+### 💻 Computer Science Engineer 
 
 <p align="center">
   <strong>Building intelligent systems, scalable applications, and real-world software solutions.</strong>
